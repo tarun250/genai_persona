@@ -260,11 +260,7 @@ This project reinforced the importance of **GIGO (Garbage In, Garbage Out)** in 
 
 ## Author
 
-**Tarun**
-Scaler Academy Prompt Engineering Assignment Submission
-
+**Tarun Sakala**
 ---
 
-## License
 
-This project is for educational purposes as part of Scaler Academy coursework.
